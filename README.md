@@ -110,9 +110,9 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Mostafa Shahat**
+👤 **Obi Emmanuel**
 
-- GitHub: [@MostafaShahat2021](https://github.com/Gmanlove)
+- GitHub: [@Gmanlove](https://github.com/Gmanlove)
 
  
 
