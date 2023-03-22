@@ -40,3 +40,25 @@
 button {
   cursor: pointer;
 }
+
+.error {
+  padding: 2rem 0;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.quote-display {
+  font-size: 2rem;
+  width: 90%;
+  padding-left: 1rem;
+}
+
+@keyframes load {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
