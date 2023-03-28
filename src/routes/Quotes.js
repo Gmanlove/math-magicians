@@ -1,7 +1,7 @@
 import axios from 'axios';
 import React, { useEffect, useState } from 'react';
-import apiKey from './apiKey';
-import Loader from './loader';
+import apiKey from '../Components/apiKey';
+import Loader from '../Components/loader';
 
 const Quotes = () => {
   const [data, setData] = useState([]);
