@@ -60,7 +60,7 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-Coming soon
+[https://math-magicianck.netlify.app/]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
